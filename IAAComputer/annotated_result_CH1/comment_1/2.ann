@@ -1,0 +1,10 @@
+T1	Claim 11 27	酒店方拿房间配合的很好，沟通顺畅
+A1	Positive T1
+T2	Premise 31 105	前台Elva Xu妹妹，专业，细致，亲切，给我们提出了良好的建议！而且还加班来帮我们接晚到的客人直到凌晨2点！并且始终保持亲切的微笑，非常有敬业精神
+T3	Premise 108 146	一起的前台William，小伙子也非常热心的组织团队入住，带客人入住送电梯等
+R1	Support Arg1:T2 Arg2:T1	
+R2	Support Arg1:T3 Arg2:T1	
+T4	Major_Claim 147 152	感觉非常好
+A2	Positive T4
+A3	Positive T2
+A4	Positive T3

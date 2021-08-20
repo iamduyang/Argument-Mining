@@ -1,0 +1,8 @@
+T1	Claim 11 27	酒店方拿房间配合的很好，沟通顺畅
+A1	Positive T1
+T2	Premise 52 86	给我们提出了良好的建议！而且还加班来帮我们接晚到的客人直到凌晨2点！
+A2	Positive T2
+R1	Support Arg1:T2 Arg2:T1	
+T3	Premise 121 147	小伙子也非常热心的组织团队入住，带客人入住送电梯等！
+A3	Positive T3
+R2	Support Arg1:T3 Arg2:T1	

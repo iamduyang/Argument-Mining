@@ -1,0 +1,14 @@
+T1	Major_Claim 0 10	非常喜欢这里的豪华阁
+A1	Positive T1
+T2	Claim 11 15	服务很好
+A2	Positive T2
+T3	Claim 16 19	很温馨
+A3	Positive T3
+T4	Claim 20 26	环境也非常好
+A4	Positive T4
+T5	Premise 27 40	房间内卫生做的非常干净整洁
+R1	Support Arg1:T5 Arg2:T4	
+T6	Premise 56 69	对客人的问题回答的专业快捷
+T7	Claim 41 55	豪华阁前台工作人员素质非常高
+A5	Positive T7
+R2	Support Arg1:T6 Arg2:T7	
