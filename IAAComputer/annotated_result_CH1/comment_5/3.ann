@@ -1,0 +1,8 @@
+T2	Claim 15 24	价格比其他酒店贵些
+A2	Negative T2
+T3	Implicit_Premise 28 50	晚上要充电器就说商务中心下班了，早上上班才有
+A3	Negative T3
+T4	Claim 51 55	动作也慢
+A4	Negative T4
+T5	Major_Claim 6 8	感觉
+A5	Negative T5

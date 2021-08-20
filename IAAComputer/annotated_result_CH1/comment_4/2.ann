@@ -1,0 +1,20 @@
+T1	Claim 0 10	酒店服务人员非常热心
+T4	Premise 51 63;64 69	客房部阿姨主动给我提供
+ 冰块和毛巾
+A3	Positive T4
+R3	Support Arg1:T4 Arg2:T1	
+T5	Premise 51 63;64 74	客房部阿姨主动给我提供
+ 冰块和毛巾，无微不至
+A4	Positive T5
+A7	Positive T1
+T3	Premise 42 63;64 74	她们将我送到医院，客房部阿姨主动给我提供
+ 冰块和毛巾，无微不至
+T6	Premise 42 63;64 74	她们将我送到医院，客房部阿姨主动给我提供
+ 冰块和毛巾，无微不至
+T2	Premise 20 50	礼宾部、餐饮部、客房部阿姨都给了我很多帮助。她们将我送到医院
+R1	Support Arg1:T2 Arg2:T1	
+T7	Premise 51 62	客房部阿姨主动给我提供
+R2	Support Arg1:T7 Arg2:T1	
+T8	Premise 64 74	冰块和毛巾，无微不至
+A1	Positive T8
+R4	Support Arg1:T8 Arg2:T1	

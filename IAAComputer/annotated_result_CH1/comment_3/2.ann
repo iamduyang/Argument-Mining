@@ -1,0 +1,23 @@
+T1	Claim 19 38	成都香格里拉大酒店是成都目前最高的酒店
+A1	Positive T1
+T2	Implicit_Premise 107 114	客房可以看江景
+A2	Positive T2
+T3	Implicit_Premise 115 124	还可以俯瞰成都市景
+A3	Positive T3
+T4	Claim 125 130	睡床很舒服
+A4	Positive T4
+T5	Premise 131 144	枕头可以根据自己的喜好选择
+A5	Positive T5
+R1	Support Arg1:T5 Arg2:T4	
+T6	Implicit_Premise 145 162	附近有成都兰桂坊还有不错的贰麻酒馆
+A6	Positive T6
+T7	Implicit_Premise 81 100	早餐可以在36楼的餐厅或1楼的蓉☕咖啡
+A7	Positive T7
+T8	Premise 39 46	大堂是挑高设计
+A8	Positive T8
+R2	Support Arg1:T8 Arg2:T1	
+T9	Premise 47 61	走进大堂就有酒店人员热情相迎
+A9	Positive T9
+T10	Claim 0 18	香格里拉酒店向来都是以优质的服务闻名
+A10	Positive T10
+R3	Support Arg1:T9 Arg2:T10	

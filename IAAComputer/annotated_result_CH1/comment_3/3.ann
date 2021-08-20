@@ -1,0 +1,20 @@
+T2	Claim 125 130	睡床很舒服
+T3	Premise 131 144	枕头可以根据自己的喜好选择
+R1	Support Arg1:T3 Arg2:T2	
+T4	Implicit_Premise 107 124	客房可以看江景，还可以俯瞰成都市景
+T5	Implicit_Premise 145 162	附近有成都兰桂坊还有不错的贰麻酒馆
+T6	Claim 0 18	香格里拉酒店向来都是以优质的服务闻名
+T7	Premise 47 61	走进大堂就有酒店人员热情相迎
+R2	Support Arg1:T7 Arg2:T6	
+T8	Claim 19 38	成都香格里拉大酒店是成都目前最高的酒店
+T10	Premise 39 46	大堂是挑高设计
+R3	Support Arg1:T10 Arg2:T8	
+A1	Positive T6
+A2	Positive T7
+A3	Neutral T10
+A4	Neutral T8
+T9	Implicit_Premise 81 100	早餐可以在36楼的餐厅或1楼的蓉☕咖啡
+A5	Positive T9
+T1	Claim 101 106	各有优势哈
+A6	Positive T1
+A7	Positive T2
