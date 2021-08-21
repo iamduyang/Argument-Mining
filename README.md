@@ -10,6 +10,8 @@ Some recent end-to-end AM works produce promising results, but their performance
 
 ### Reference
 If you use this code or dataset as part of any published research, please refer the following paper.
+
+Joint extraction of argument components and relations
 ```
 @inproceedings{du2017joint,
   title={Joint extraction of argument components and relations},
@@ -20,6 +22,8 @@ If you use this code or dataset as part of any published research, please refer 
   organization={IEEE}
 }
 ```
+
+Joint rnn model for argument component boundary detection}
 ```
 @inproceedings{li2017joint,
   title={Joint rnn model for argument component boundary detection},
@@ -31,6 +35,17 @@ If you use this code or dataset as part of any published research, please refer 
 }
 ```
 
+To use the dataset, please cite.
+```
+@inproceedings{li2017crowdsourcing,
+  title={Crowdsourcing argumentation structures in Chinese hotel reviews},
+  author={Li, Mengxue and Geng, Shiqiang and Gao, Yang and Peng, Shuhua and Liu, Haijing and Wang, Hao},
+  booktitle={2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={87--92},
+  year={2017},
+  organization={IEEE}
+}
+```
 
 
 ### Details of AM
