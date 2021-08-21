@@ -20,6 +20,17 @@ If you use this code or dataset as part of any published research, please refer 
   organization={IEEE}
 }
 ```
+```
+@inproceedings{li2017joint,
+  title={Joint rnn model for argument component boundary detection},
+  author={Li, Minglan and Gao, Yang and Wen, Hui and Du, Yang and Liu, Haijing and Wang, Hao},
+  booktitle={2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages={57--62},
+  year={2017},
+  organization={IEEE}
+}
+```
+
 
 
 ### Details of AM
