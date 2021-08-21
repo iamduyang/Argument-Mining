@@ -1,4 +1,4 @@
-#Argument Mining Project
+# Argument Mining Project
 
 ## Joint extraction of argument components and relations
 + Yang Du (ISCAS,UCAS), Minglan Li (ISCAS,UCAS), Mengxue Li (ISCAS,UCAS)
