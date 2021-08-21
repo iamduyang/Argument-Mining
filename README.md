@@ -21,5 +21,4 @@ If you use this code or dataset as part of any published research, please refer 
 
 
 ## Details of AM
-Details of AMTL are described in [Joint extraction paper][paperlink]
-[paperlink]: https://ieeexplore.ieee.org/abstract/document/8300532/
+Details of AMTL are described in : https://ieeexplore.ieee.org/abstract/document/8300532/
