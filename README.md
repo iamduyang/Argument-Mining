@@ -23,7 +23,7 @@ Joint extraction of argument components and relations
 }
 ```
 
-Joint rnn model for argument component boundary detection}
+Joint rnn model for argument component boundary detection
 ```
 @inproceedings{li2017joint,
   title={Joint rnn model for argument component boundary detection},
