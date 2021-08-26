@@ -16,15 +16,15 @@ import os
 
 
 
-def various_feature_Others(feature_numberList):
+def various_feature_SVM(feature_numberList):
     for feature_number in feature_numberList:
-        exe_string = "python Tune_Other2.py "+str(feature_number)+".csv "+str(feature_number)
+        exe_string = "python Tune_SVM.py "+str(feature_number)+".csv "+str(feature_number)
         #print(exe_string)
         os.system(exe_string)
 
 if __name__ == "__main__":
-    feature_numberList =[500,800,1000]
-    various_feature_Others(feature_numberList)
+    feature_numberList =[500]
+    various_feature_SVM(feature_numberList)
 
 
     print("end of work!")
