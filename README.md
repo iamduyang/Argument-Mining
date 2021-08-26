@@ -49,4 +49,4 @@ To use the dataset, please cite.
 
 
 ### Details of AM
-Details of the joint work are described in : https://ieeexplore.ieee.org/abstract/document/8300532/
+Details of the joint work is described in : https://ieeexplore.ieee.org/abstract/document/8300532/
