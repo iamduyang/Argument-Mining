@@ -1,0 +1,5 @@
+Result of decision tree: 
+accuracy: 0.579385	f1: 0.575608
+result of GaussianNB
+accuracy: 0.101627	f1: 0.120179
+end of work!
