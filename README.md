@@ -1,5 +1,7 @@
 # Argument Mining Project
 
+This work is supported by National Natural Science Foundation of China（61602453）.
+
 ## Joint extraction of argument components and relations
 + Yang Du (ISCAS,UCAS), Minglan Li (ISCAS,UCAS), Mengxue Li (ISCAS,UCAS)
 
